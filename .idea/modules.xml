@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microcloud-api/microcloudapi.iml" filepath="$PROJECT_DIR$/microcloud-api/microcloudapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-consumer/microcloudconsumer.iml" filepath="$PROJECT_DIR$/microcloud-consumer/microcloudconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-product/microcloudproviderproduct.iml" filepath="$PROJECT_DIR$/microcloud-provider-product/microcloudproviderproduct.iml" />
+    </modules>
+  </component>
+</project>
